@@ -43,6 +43,7 @@ export class CalculateController {
       listener
     );
     await acceptor.accept(provider);
+    acceptor.ping(15_000);
   }
 
   /**
@@ -60,7 +61,9 @@ export class CalculateController {
     const header: ICalcConfig = acceptor.header;
     const listener: Driver<ICalcEventListener> = acceptor.getDriver();
     const provider: SimpleCalculator = new SimpleCalculator(header, listener);
+
     await acceptor.accept(provider);
+    acceptor.ping(15_000);
   }
 
   /**
@@ -82,6 +85,7 @@ export class CalculateController {
       listener
     );
     await acceptor.accept(provider);
+    acceptor.ping(15_000);
   }
 
   /**
@@ -103,5 +107,6 @@ export class CalculateController {
       listener
     );
     await acceptor.accept(provider);
+    acceptor.ping(15_000);
   }
 }
