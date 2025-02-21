@@ -13,7 +13,7 @@
   "license": "ISC",
   "dependencies": {
     "@nestia/core": "^4.6.2",
-    "@nestia/e2e": "^0.8.0",
+    "@nestia/e2e": "^0.8.2",
     "@nestia/fetcher": "^4.6.2",
     "@nestjs/common": "^11.0.10",
     "@nestjs/core": "^11.0.10",
