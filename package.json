@@ -15,9 +15,9 @@
     "@nestia/core": "^6.0.6",
     "@nestia/e2e": "^6.0.6",
     "@nestia/fetcher": "^6.0.6",
-    "@nestjs/common": "^11.1.1",
-    "@nestjs/core": "^11.1.1",
-    "@nestjs/platform-express": "^11.1.1",
+    "@nestjs/common": "^11.1.2",
+    "@nestjs/core": "^11.1.2",
+    "@nestjs/platform-express": "^11.1.2",
     "tgrid": "^1.1.0",
     "typia": "^9.3.1"
   },
