@@ -12,20 +12,20 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "@nestia/core": "^9.0.3",
-    "@nestia/e2e": "^9.0.3",
-    "@nestia/fetcher": "^9.0.3",
+    "@nestia/core": "^9.1.0",
+    "@nestia/e2e": "^9.1.0",
+    "@nestia/fetcher": "^9.1.0",
     "@nestjs/common": "^11.1.9",
     "@nestjs/core": "^11.1.9",
     "@nestjs/platform-express": "^11.1.9",
     "tgrid": "^1.2.0",
-    "typia": "^10.0.2"
+    "typia": "^10.1.0"
   },
   "devDependencies": {
-    "@nestia/sdk": "^9.0.3",
+    "@nestia/sdk": "^9.1.0",
     "@trivago/prettier-plugin-sort-imports": "^4.3.0",
     "@types/node": "^20.12.12",
-    "nestia": "^9.0.3",
+    "nestia": "^9.1.0",
     "prettier": "^3.2.5",
     "ts-node": "^10.9.2",
     "ts-patch": "^3.3.0",
