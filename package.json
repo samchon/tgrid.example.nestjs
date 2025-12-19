@@ -18,7 +18,7 @@
     "@nestjs/common": "^11.1.9",
     "@nestjs/core": "^11.1.9",
     "@nestjs/platform-express": "^11.1.9",
-    "tgrid": "^1.2.0",
+    "tgrid": "^1.2.1",
     "typia": "^10.1.0"
   },
   "devDependencies": {
