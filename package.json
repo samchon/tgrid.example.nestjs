@@ -19,7 +19,7 @@
     "@nestjs/core": "^11.1.12",
     "@nestjs/platform-express": "^11.1.12",
     "tgrid": "^1.2.1",
-    "typia": "^11.0.2"
+    "typia": "^11.0.3"
   },
   "devDependencies": {
     "@nestia/sdk": "^10.0.2",
